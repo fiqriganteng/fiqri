@@ -1,0 +1,2 @@
+# fiqri
+project baruku
